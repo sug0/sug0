@@ -1,3 +1,10 @@
 ### H-Hi 😳
 
-My name is Tiago. Enjoy your stay here.
+I'm Tiago.
+
+My main interests right now are image processing, security and networking.
+Currently, I am looking for a position as a part-timer, so if you're interested in my work, contact me:
+
+    t1ago_ at outlook.com
+
+Enjoy your stay here. ;)
