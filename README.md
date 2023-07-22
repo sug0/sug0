@@ -2,6 +2,8 @@
 
 I'm Tiago. 🤙
 
+On git, my fingerprint is [`a36e619fb290feb71aca52e59b8087993daa3904`](https://github.com/sug0/git-signify).
+
 My main interests right now are image processing, distributed systems, security and networking.
 
 If you feel like we should talk about common interests or any business proposal,
