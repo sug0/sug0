@@ -10,7 +10,7 @@ My main interests right now are image processing, distributed systems, security 
 If you feel like we should talk about common interests or any business proposal,
 you can reach me by email here:
 
-    t1ago_ ат outlook.com
+    me ат tcarvalho.dev
 
 Enjoy your stay!
 
